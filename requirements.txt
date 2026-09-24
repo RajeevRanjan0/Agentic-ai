@@ -8,3 +8,4 @@ pyOpenSSL
 python-certifi-win32
 
 langgraph
+langgraph-checkpoint-sqlite
