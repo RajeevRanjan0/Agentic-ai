@@ -9,3 +9,6 @@ python-certifi-win32
 
 langgraph
 langgraph-checkpoint-sqlite
+
+streamlit
+gradio
