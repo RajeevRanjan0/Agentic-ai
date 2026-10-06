@@ -12,3 +12,4 @@ langgraph-checkpoint-sqlite
 
 streamlit
 gradio
+pyjwt
